@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ITE 會員系統</title>
+  </head>
+  <body background="http://s3.amazonaws.com/caself/products/photos/000/001/413/original/concretia_6.jpg?1509412229">
+ <div class="header-l" data-user="0" style="text-align:right;">
+ <a href="/otp/iteshop">首頁</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/otp/login">返回登入</a> </div>
+  <center>
+  <form class="" action="sign.php" method="post">
+        <input type="text" name="user" value="" placeholder="輸入帳號">
+        <p>
+        <input type="password" name="pass1" value=""panel placeholder="輸入密碼">
+        <p>
+        <input type="password" name="pass2" value=""panel placeholder="確認密碼">
+        <p>
+
+        <input type="submit" name="sign up" value="註冊">
+
+    </form>
+   </center>
+  </body>
+</html>
+

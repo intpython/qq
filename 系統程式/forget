@@ -1,0 +1,21 @@
+<html>
+ <head>
+        <meta charset="utf-8">
+  <title>ITE 會員系統</title>
+ </head>
+ <body background="http://s3.amazonaws.com/caself/products/photos/000/001/413/original/concretia_6.jpg?1509412229">
+
+ <p>
+
+<FORM METHOD=POST ACTION="forget.php">
+
+ 請再次輸入帳號: <INPUT TYPE="text" NAME="account" placeholder="輸入帳號" ><BR>
+ <p>
+ 請再次輸入密碼: <INPUT TYPE="password" NAME="password" placeholder="輸入密碼" ><BR>
+  <p>
+  <INPUT TYPE="submit" value="重製兩階段驗證">
+
+ </FORM>
+ </body>
+</html>
+
